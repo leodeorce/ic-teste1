@@ -15,7 +15,7 @@ As versões utilizadas para cada pacote foram:
 - requests: 2.26.0
 - beautifulsoup4: 4.10.0
 
-Desenvolvido em versão python 3.10.0.
+Testado em Ubuntu 20.04.3 LTS em versão python 3.8.10 e Windows 10 x64 20H2 em versão python 3.10.0.
 
 ## **Como utilizar**
 
