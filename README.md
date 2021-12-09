@@ -1,5 +1,3 @@
-** ReadMe em construção **
-
 # **Teste 1 - WebScraping**
 
 Teste 1 para a etapa de realização de testes de nivelamento no processo seletivo para estágio da Intuitive Care.
